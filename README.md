@@ -5,7 +5,7 @@
 
 <h2>Features</h2>
 <ul>
-  <li>Scrapes the top 10 news headlines from BBC and CNN.</li>
+  <li>Scrapes the top 5 news headlines from BBC and CNN.Can customixe how many headlines you want.</li>
   <li>Performs sentiment analysis (Positive, Negative, or Neutral) on each headline.</li>
   <li>Prints the headlines along with their sentiment classification.</li>
 </ul>
