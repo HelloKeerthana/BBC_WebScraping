@@ -2,6 +2,6 @@ streamlit==1.24.1
 beautifulsoup4==4.12.2
 requests==2.31.0
 textblob==0.17.1
-Pillow==9.2.0
+Pillow==8.4.0
 setuptools==65.5.1
 wheel==0.40.0
