@@ -16,7 +16,7 @@
     <pre><code>pip install requests beautifulsoup4 textblob</code></pre>
   </li>
   <li>Run the script:
-    <pre><code>python scraper.py</code></pre>
+    <pre><code>python news_webScrapping.py</code></pre>
   </li>
   <li>View the scraped headlines and sentiment analysis in the terminal.</li>
 </ol>
