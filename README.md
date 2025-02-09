@@ -1,5 +1,3 @@
-![bbc_cnn_newsScrapping](https://github.com/user-attachments/assets/77caa25f-3ca9-4b84-9915-7c4bb635a127)
-
 <h1>BeautifulSoup News Scraper</h1>
 
 <h2>Overview</h2>
@@ -45,3 +43,6 @@ Sentiment: Negative
 
 <h2>Note</h2>
 <p>Ensure the HTML structure of the websites is up to date with the selectors in the code. If headlines are not appearing, inspect the website and update the tag/class selectors accordingly.</p>
+
+
+![bbc_cnn_newsScrapping](https://github.com/user-attachments/assets/77caa25f-3ca9-4b84-9915-7c4bb635a127)
