@@ -1,0 +1,4 @@
+streamlit>=1.16
+requests>=2.26
+beautifulsoup4>=4.10
+pillow --only-binary :all:
