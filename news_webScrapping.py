@@ -5,8 +5,7 @@ from textblob import TextBlob
 # Example URLs for scraping
 news_sources = {
     'BBC': 'https://www.bbc.com/news',
-    'CNN': 'https://edition.cnn.com/world',
-    'Reuters': 'https://www.reuters.com/world/'
+    'CNN': 'https://edition.cnn.com/world'
 }
 
 news_data = []
